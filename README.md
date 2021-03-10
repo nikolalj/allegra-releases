@@ -1,3 +1,3 @@
-# Aria Point Of Sale
+# Allegra Point Of Sale
 
 ### Desktop App Releases
